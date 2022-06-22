@@ -17,7 +17,7 @@ Completed software engineering bootcamp at LeWagon recently. Aiming to be an asp
 
 <br>
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me:
 
 - :rocket: Always ready to tackle new challenges and learn new skills
 - :zap: Fun fact: I love to watch movies and is passionate about coding
